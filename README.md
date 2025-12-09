@@ -8,11 +8,10 @@ A Django starter template as per the docs: https://docs.djangoproject.com/en/5.0
 ![guard](https://github.com/user-attachments/assets/15f06fca-0d90-4d59-94d0-c31c12c4ad9e)
 
 
-
-<img width="997" height="612" alt="p2" src="https://github.com/user-attachments/assets/392a9274-06f5-4b52-8db3-de70bf2d9be7" />
-<img width="964" height="603" alt="p3" src="https://github.com/user-attachments/assets/fedb37d2-7524-4a53-a615-74e1c8cbde39" />
-<img width="988" height="590" alt="p4" src="https://github.com/user-attachments/assets/5049c26d-8ffa-4c52-98ad-76e2f7f35f9b" />
-<img width="982" height="594" alt="p5" src="https://github.com/user-attachments/assets/7a860905-0a80-41a1-a5af-a7f676e15c8d" />
-<img width="979" height="588" alt="p6" src="https://github.com/user-attachments/assets/190b5ca8-aae9-4cdf-bec7-4d5908e0dc6b" />
-<img width="976" height="586" alt="p7" src="https://github.com/user-attachments/assets/e7c8c08b-3aa4-4091-8c7c-c66723eca5d8" />
-<img width="970" height="593" alt="p8" src="https://github.com/user-attachments/assets/08c3402e-398b-42aa-a592-8b67a7d857bb" />
+![2](https://github.com/user-attachments/assets/9db80e9c-4f44-438a-bfe5-c356477757e2)
+![1](https://github.com/user-attachments/assets/6ab9a506-4665-4b13-8bed-d9d6345f905d)
+![8](https://github.com/user-attachments/assets/2d929f49-01e5-4187-bfdf-f7eda82a7f9f)
+![7](https://github.com/user-attachments/assets/2649afe0-3d5f-4e71-b8b6-1b91c24abfee)
+![6](https://github.com/user-attachments/assets/f7f83c9f-1109-4c8f-8b1e-4d2e7c89115c)
+![5](https://github.com/user-attachments/assets/15820f8c-b967-449c-9204-fd2089a68025)
+![3](https://github.com/user-attachments/assets/e4e4b3ad-88bb-418f-a49c-f669edc074af)
