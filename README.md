@@ -8,7 +8,7 @@ A Django starter template as per the docs: https://docs.djangoproject.com/en/5.0
 ![guard](https://github.com/user-attachments/assets/15f06fca-0d90-4d59-94d0-c31c12c4ad9e)
 
 
-<img width="1030" height="608" alt="p1" src="https://github.com/user-attachments/assets/77677631-911f-48c6-b667-282ac1cc415f" />
+
 <img width="997" height="612" alt="p2" src="https://github.com/user-attachments/assets/392a9274-06f5-4b52-8db3-de70bf2d9be7" />
 <img width="964" height="603" alt="p3" src="https://github.com/user-attachments/assets/fedb37d2-7524-4a53-a615-74e1c8cbde39" />
 <img width="988" height="590" alt="p4" src="https://github.com/user-attachments/assets/5049c26d-8ffa-4c52-98ad-76e2f7f35f9b" />
